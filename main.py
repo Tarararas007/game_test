@@ -70,3 +70,5 @@ while True:
         else:
             print("Invalid word")
             count += 1
+
+print('hello')
